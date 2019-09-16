@@ -1,7 +1,3 @@
-This is some text in a text file.
+Some new lines
 
-This is a line of text in this pointless text file.
-
-Pointlessnesssss.
-
-Modification made to this useless file is obvious.
+some new lines
